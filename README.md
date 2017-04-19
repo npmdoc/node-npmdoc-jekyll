@@ -1,4 +1,7 @@
-# api documentation for  [jekyll (v3.0.0-beta1)](https://github.com/jekyll/jekyll)  [![npm package](https://img.shields.io/npm/v/npmdoc-jekyll.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jekyll) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jekyll.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jekyll)
+# npmdoc-jekyll
+
+#### api documentation for  [jekyll (v3.0.0-beta1)](https://github.com/jekyll/jekyll)  [![npm package](https://img.shields.io/npm/v/npmdoc-jekyll.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jekyll) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jekyll.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jekyll)
+
 #### A blog-aware, static site generator in Ruby
 
 [![NPM](https://nodei.co/npm/jekyll.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jekyll)
