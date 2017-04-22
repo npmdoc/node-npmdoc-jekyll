@@ -21,52 +21,33 @@
 ```json
 
 {
-    "bugs": {
-        "url": "https://github.com/jekyll/jekyll/issues"
-    },
-    "contributors": [
-        {
-            "name": "Tom Preston-Werner"
-        },
-        {
-            "name": "Nick Quaranto"
-        },
-        {
-            "name": "Parker Moore"
-        }
-    ],
-    "dependencies": {},
+    "name": "jekyll",
+    "version": "3.0.0-beta1",
     "description": "A blog-aware, static site generator in Ruby",
-    "devDependencies": {},
+    "main": "./lib/jekyll.rb",
     "directories": {
         "test": "test"
     },
-    "dist": {
-        "shasum": "32749f03004cff217bf29988f6e4420606479ff9",
-        "tarball": "https://registry.npmjs.org/jekyll/-/jekyll-3.0.0-beta1.tgz"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jekyll/jekyll.git"
     },
-    "gitHead": "a31ec3a38bd6375b2d91e665dc5ec76812a72bc5",
-    "homepage": "https://github.com/jekyll/jekyll",
     "keywords": [
         "static",
         "site",
         "generator"
     ],
-    "license": "MIT",
-    "main": "./lib/jekyll.rb",
-    "maintainers": [
-        {
-            "name": "adius"
-        }
+    "contributors": [
+        "Tom Preston-Werner",
+        "Nick Quaranto",
+        "Parker Moore"
     ],
-    "name": "jekyll",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/jekyll/jekyll.git"
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jekyll/jekyll/issues"
     },
-    "scripts": {},
-    "version": "3.0.0-beta1"
+    "homepage": "https://github.com/jekyll/jekyll",
+    "bin": {}
 }
 ```
 
